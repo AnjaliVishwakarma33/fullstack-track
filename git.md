@@ -10,3 +10,4 @@ git checkout -b <branch-name> - create a new branch from current branch and chec
 git remote add origin https://github.com/AnjaliVishwakarma33/fullstack-track
 git push -u origin <branch-name>
 git pull
+git merge
